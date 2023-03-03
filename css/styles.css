@@ -251,3 +251,9 @@ section.resume-section .resume-section-content {
     display: none;
   }
 }
+
+@media (max-width: 768px){
+  .resume-section-content.px-5 {
+    padding: 0px !important;
+  }
+}
