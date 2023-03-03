@@ -256,4 +256,7 @@ section.resume-section .resume-section-content {
   .resume-section-content.px-5 {
     padding: 0px !important;
   }
+  .bg-dirty-white {
+    background: #fbf1e7 !important;
+  }
 }
